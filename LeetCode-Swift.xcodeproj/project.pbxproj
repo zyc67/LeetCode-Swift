@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2321874F2B57B03800A3403E /* LeetCode2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2321874E2B57B03800A3403E /* LeetCode2.swift */; };
 		23A8DF762B566BCE007A0984 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A8DF752B566BCE007A0984 /* main.swift */; };
 		23A8DF7D2B566D7E007A0984 /* LeetCode1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A8DF7C2B566D7E007A0984 /* LeetCode1.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2321874E2B57B03800A3403E /* LeetCode2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode2.swift; sourceTree = "<group>"; };
 		23A8DF722B566BCE007A0984 /* LeetCode-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LeetCode-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A8DF752B566BCE007A0984 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		23A8DF7C2B566D7E007A0984 /* LeetCode1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode1.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				23A8DF752B566BCE007A0984 /* main.swift */,
 				23A8DF7C2B566D7E007A0984 /* LeetCode1.swift */,
+				2321874E2B57B03800A3403E /* LeetCode2.swift */,
 			);
 			path = "LeetCode-Swift";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				23A8DF7D2B566D7E007A0984 /* LeetCode1.swift in Sources */,
 				23A8DF762B566BCE007A0984 /* main.swift in Sources */,
+				2321874F2B57B03800A3403E /* LeetCode2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
