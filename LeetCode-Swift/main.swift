@@ -67,3 +67,11 @@ import Foundation
 //
 //let node22 = solution_2.addTwoNumbers(node17, node21)
 
+
+// 9. 回文数
+let solution_9 = Solution_9_4()
+print(solution_9.isPalindrome(12341))
+print(solution_9.isPalindrome(121))
+print(solution_9.isPalindrome(1221))
+print(solution_9.isPalindrome(-121))
+print(solution_9.isPalindrome(10))

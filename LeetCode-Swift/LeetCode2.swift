@@ -128,7 +128,7 @@ class Solution_2_4 {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         var l11 = l1
         var l22 = l2
-        var result = ListNode()
+        let result = ListNode()
         var current = result
         var sum = 0
         while l11 != nil || l22 != nil {
